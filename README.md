@@ -1,5 +1,4 @@
 # CLI
-# CLI
 CLI (Command line interface) adalah sebuah mekanisme untuk melakukan interaksi dengan program dengan menggunakan sebuah teks untuk menjalankan tugas tertentu.
 
 ## Unix Philosophy
